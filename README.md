@@ -2,9 +2,8 @@
 
 <p align="center">
   <a href="https://github.com/121yaseen/FacialExpressionIdentifier">
-    <img src="https://d3i71xaburhd42.cloudfront.net/3e3227c8e9f44593d2499f4d1302575c77977b2e/2-Figure1-1.png">
   </a>
-
+[](banner-1.png)
 ## 📌 Introduction
 
 This Machine Learning Web Application utilizes a  Convolutional Neural Network to process the  Images, detect and predict the facial Expression. The [Dataset](https://www.kaggle.com/msambare/fer2013) to process the Deep Learning Algorithm is taken from FER 2013 dataset from Kaggle. This trained model has 63% accuracy in Facial Expression Recognition. This application uses Haar Cascade Classifier for detecting the faces. 
