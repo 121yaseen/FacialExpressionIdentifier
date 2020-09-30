@@ -26,10 +26,8 @@ This Machine Learning Web Application utilizes a  Convolutional Neural Network t
 https://github.com/121yaseen/FacialExpressionIdentifier.git
 ```
 
-3. Install the Packages: 
-```sh
-pip install -r requirements.txt
-```
+3. Install the required Packages: 
+
 
 4. At last, push in the command:
 ```sh
